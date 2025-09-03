@@ -3,7 +3,7 @@
 <h1 align="center">Hey, I'm Sanuda Thejan 👋</h1>
 <p align="center">
   Computer Science undergraduate @ University of Westminster •
-  Game Engine Architecture • Maths & Physics for Games
+  Progamming • Web Developing
 </p>
 
 ---
