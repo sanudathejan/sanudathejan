@@ -9,7 +9,7 @@
 ---
 
 ### ✨ About Me
-- 🎮 Passionate about **Game Engine Architecture** and **real-time graphics**
+- 🎮 Passionate about **Programming** and **web Developing**
 - 💻 Skills: **Python**, **Java**, **HTML**, **CSS**, **JavaScript**
 - 🤝 Strengths: **Problem Solving**, **Teamwork**
 - 📫 Reach me: **sanudathejan** (GitHub) • <a href="mailto:">Email me</a>
